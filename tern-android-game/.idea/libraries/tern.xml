@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tern">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/tern.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
