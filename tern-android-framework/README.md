@@ -1,13 +1,11 @@
-Android-Super-Mario
-====================
+![Tern](https://raw.githubusercontent.com/tern-lang/tern-site/master/tern-lang.org/img/logo-small.png)
 
-Many of us have grown up playing Super Mario Brothers, one of most famous games in gaming industry. This game is android Clone of famous Super mario Brothers from Nintendo.
-This game was started as a project to learn android programming, but soon it came out as close as professional game. Hence this game is released to bring our memories back. It is absolutely free, and will remain free forever.
+This project forms the basis for building debuggable games on Android with Tern. There is an implementation of Marion for this framework, 
+the source code can be found below.
 
-Have a look at the starting screen...
+[Mario Source Code](https://github.com/tern-lang/tern-studio/blob/master/tern-studio/work/android/mario/src/mario)
 
-![Have a look at the starting screen...](http://lh5.ggpht.com/7mpw1b5pQSrZD8ylEwz2lJ-z9a-hQ6dXsXkIYYzMsfLh7a4KtHlFq4VOhbUczBaG_JI)
-
+![Super Mario](https://github.com/tern-lang/tern-android/blob/master/tern-android-framework/ic_launcher-web.png)
 
 Features
 ========
