@@ -1,6 +1,6 @@
 ![Tern](https://raw.githubusercontent.com/tern-lang/tern-site/master/tern-lang.org/img/logo-small.png)
 
-This project forms the basis for building debuggable games on Android with Tern. There is an implementation of Marion for this framework, 
+This project forms the basis for building debuggable games on Android with Tern. There is an implementation of Mario for this framework, 
 the source code can be found below.
 
 [Mario Source Code](https://github.com/tern-lang/tern-studio/blob/master/tern-studio/work/android/mario/src/mario)
