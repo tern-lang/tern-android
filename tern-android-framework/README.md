@@ -24,13 +24,3 @@ Features
 
 
 **Disclaimer**: This game is non commercial, non profitable and released for entertainment purpose only. It uses many resources from Net, if any copyrights is violated (which is purely unintentional), please let us know.
-
-
-Download Instructions
-=====================
-
-From the link below you can download the .apk file directly.
-    
-[Download .apk File](https://github.com/maheshkurmi/-Android-Super-Mario/blob/master/SuperMario.apk?raw=true)
-
-However, for installation you must have checked the installation of apps from unknown sources. For this, go to the settings, then go to the security and check the corresponding option.
